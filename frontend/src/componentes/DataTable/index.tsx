@@ -64,5 +64,4 @@ const DataTable = () => {
 
     );
 }
-export default DataTable;
-
+export default DataTable; 
