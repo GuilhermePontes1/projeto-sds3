@@ -1,4 +1,4 @@
-package backend.src.main.java.com.devsuperior.dsvendas.config;
+package com.devsuperior.dsvendas.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -17,7 +17,7 @@ import java.util.Arrays;
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
-
+// Classe de configuração tem que possuir @Configuration, além de ser uma classe pré-setada
     @Autowired
     private Environment env;
 
