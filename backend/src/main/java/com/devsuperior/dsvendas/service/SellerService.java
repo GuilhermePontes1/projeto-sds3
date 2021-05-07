@@ -18,7 +18,7 @@ public class SellerService {
     public List<SellerDTO> findAll() {
        List<Seller> result = repository.findAll();
 
-       return result.stream().map(x -> new SellerDTO(x)).collect(Collectors.toList()); // transforma LISTA de seller em lista de DTO
+       return result.stream().map(x -> new SellerDTO(x)).collect(Collectors.toList()); // transforma LISTA comum para Lista DTO devido a DTO SER A lista de tansição
 
     }
 }
