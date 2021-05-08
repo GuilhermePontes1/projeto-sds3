@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
-public class SellerService {
+public class  SellerService {
 
     @Autowired
     private SellerRepository repository;
