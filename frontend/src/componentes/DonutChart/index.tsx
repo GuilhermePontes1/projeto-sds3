@@ -17,6 +17,7 @@ const DonutChart = () => {
     series={mockData.series}
     type = "donut"
     height = "800"
+    width = "500"
     />
     );
 }   

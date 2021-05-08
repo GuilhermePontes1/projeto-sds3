@@ -27,7 +27,8 @@ const BarChart = () => {
     options ={{...options, xaxis: mockData.labels}} // pega todo mundo porém vc pode adicionar mais coisas
     series={mockData.series}
     type = "bar"
-    height = "240"
+    height = "300"
+    width = "600"
     />
     );
 }   
