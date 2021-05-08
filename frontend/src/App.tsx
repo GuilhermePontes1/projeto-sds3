@@ -1,4 +1,3 @@
-
 import Routes from "Routes";
 
 function App() {
@@ -6,7 +5,6 @@ function App() {
     <Routes />
  );
 }
-
 
 export default App;
 // utliza para delimitar a função como uma só 
