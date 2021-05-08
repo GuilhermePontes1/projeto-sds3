@@ -11,7 +11,7 @@ type ChartData = {
 
 const DonutChart = () => {// Manter estado no componente | Hook: useState
     const [chartData, setChartData] = useState<ChartData>({ labels: [], series: [] });
-     
+
     //Executar algo na instanciação ou destruição do componente, observar estado
     //Hook: useEffect
     useEffect(() => {
@@ -23,12 +23,12 @@ const DonutChart = () => {// Manter estado no componente | Hook: useState
 
                 setChartData({ labels: myLabels, series: mySeries });
             });
-    },[] );
+    }, []);
 
     // const mockData = {
     //     series: [477138, 499928, 444867, 220426, 473088],
     //     labels: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
-    // }
+    // } FEITO PARA TESTAR O FRONT-END COM DADOS IMAGINÁRIOS
 
     const options = {
         legend: {
