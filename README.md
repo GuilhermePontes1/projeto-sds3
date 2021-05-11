@@ -3,6 +3,7 @@
 ### BACKEND DO PROJETO  -> https://sds3-backend-guilhermepontes.herokuapp.com/
 
 ### FRONT END DO PROJETO -> https://sds3-guilhermepontes2.netlify.app/
+(Demora um pouco para aparecer o dashboard)
 
 ## Tecnologias:
 
