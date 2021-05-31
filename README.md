@@ -1,12 +1,13 @@
 # projeto-sds3
 
 ## Certificado de conclusão : 
-[DSLearn.pdf](https://github.com/GuilhermePontes1/projeto-sds3/files/6572525/DSLearn.pdf)
+[Link para certificado online](https://ibb.co/WF49PK5)
  
 ### BACKEND DO PROJETO  -> https://sds3-backend-guilhermepontes.herokuapp.com/
 
 ### FRONT END DO PROJETO -> https://sds3-guilhermepontes2.netlify.app/
-(Demora um pouco para aparecer o dashboard)
+(Demora um pouco para aparecer o dashboard, caso não queira esperar link das imagens: [Tela 1](https://ibb.co/MV2kC6Q)
+[Tela 2](https://ibb.co/t3RpmdS)
 
 ## Tecnologias:
 
@@ -20,3 +21,4 @@
 ## Nuvem Back-end ->  <img align = "center" height = "120" width = "120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg"> 
 
 ## Nuvem Front-End -> <img align = "center" height = "300" width = "300" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"> 
+
