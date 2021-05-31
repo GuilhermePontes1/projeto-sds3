@@ -1,4 +1,7 @@
 # projeto-sds3
+
+## Certificado de conclusão : 
+[DSLearn.pdf](https://github.com/GuilhermePontes1/projeto-sds3/files/6572525/DSLearn.pdf)
  
 ### BACKEND DO PROJETO  -> https://sds3-backend-guilhermepontes.herokuapp.com/
 
@@ -16,4 +19,4 @@
 
 ## Nuvem Back-end ->  <img align = "center" height = "120" width = "120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg"> 
 
-## Nuvem Front-End -> <img align = "center" height = "300" width = "300" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg">
+## Nuvem Front-End -> <img align = "center" height = "300" width = "300" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"> 
