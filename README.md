@@ -5,13 +5,14 @@
  
 ### BACKEND DO PROJETO  -> https://sds3-backend-guilhermepontes.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/65747791/120945326-f9d6b700-c70e-11eb-8ddf-1ed8e719246d.png)
-
-
 
 ### FRONT END DO PROJETO -> https://sds3-guilhermepontes2.netlify.app/
 OBS: Demora um pouco para aparecer o dashboard, caso não queira esperar link das imagens: [Tela 1](https://ibb.co/MV2kC6Q)
 [Tela 2](https://ibb.co/t3RpmdS)
+
+### Diagrama do projeto
+![image](https://user-images.githubusercontent.com/65747791/120945326-f9d6b700-c70e-11eb-8ddf-1ed8e719246d.png)
+
 
 ## Tecnologias:
 
