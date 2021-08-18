@@ -1,7 +1,7 @@
 # projeto-sds3
 
 ## Certificado de conclusão : 
-[Link para certificado online](https://ibb.co/WF49PK5)
+[Link para certificado online](https://i.ibb.co/W3GD0ZR/DSLearn.jpg)
  
 ### BACKEND DO PROJETO  -> https://sds3-backend-guilhermepontes.herokuapp.com/
 
